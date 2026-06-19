@@ -231,17 +231,6 @@ Beans-Classification/
 
 ---
 
-## 🔮 Future Improvements
-
-* Hyperparameter tuning using GridSearchCV
-* Feature importance analysis
-* SHAP Explainability
-* Cross-validation-based evaluation
-* Cloud deployment
-* Automated data validation pipeline
-
----
-
 ## 🎯 Conclusion
 
 This project demonstrates a complete machine learning workflow for multiclass classification using the Dry Bean Dataset.
